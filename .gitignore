@@ -1,0 +1,11 @@
+# Chỉ đưa lên git trang công khai đã che thông tin & mã hóa (index.html), README và file này.
+# Mọi dữ liệu phân tích chi tiết, Excel và bản nội bộ chưa mã hóa giữ ở máy.
+work/
+*.xlsx
+*.xls
+*_NoiBo.html
+_test_*.html
+*.png
+.claude/
+MAT_KHAU*
+*.txt
