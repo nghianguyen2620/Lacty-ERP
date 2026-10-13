@@ -9,3 +9,5 @@ _test_*.html
 .claude/
 MAT_KHAU*
 *.txt
+HuongDan/
+*.docx
