@@ -1,6 +1,6 @@
 # LY ERP – Sơ đồ hệ thống & quy trình (tài liệu nội bộ)
 
-Trang `index.html` là sơ đồ tương tác của LY ERP: 17 hệ thống, quy trình vận hành theo mã menu, quy trình từng nhà máy, tra cứu bảng và cột.
+Trang `index.html` là sơ đồ tương tác của LY ERP: 17 hệ thống, 21 quy trình vận hành theo mã menu, quy trình từng nhà máy, hướng dẫn sử dụng từng màn hình, tra cứu bảng và cột, quan hệ & truy vết, phân tích ảnh hưởng, phân công theo bộ phận (RACI) và quy chuẩn thiết kế giao diện. Giao diện có 3 ngôn ngữ: Tiếng Việt, English, 繁體中文.
 
 - **Xem bằng link chia sẻ** (dạng `…/Lacty-ERP/#k=…`): bấm là mở, không cần gõ mật khẩu; trình duyệt tự nhớ cho lần sau.
 - Dữ liệu trong repo **được mã hóa** (AES-256-GCM, PBKDF2-SHA256 250.000 vòng). Phần `#k=…` của link không bao giờ được gửi lên máy chủ GitHub, nên ai không có link thì không đọc được nội dung.
